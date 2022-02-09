@@ -47,10 +47,7 @@ We used a Flask app to serve our website with a dashboard highlighting interesti
 * [OMDb API](http://www.omdbapi.com)
 * [Kaggle](https://www.kaggle.com/danielgrijalvas/movies)
 
-### Team
-* [Tamasree Sinha](https://github.com/tamasree)
-* [Vilaysack Khonsavanh](https://github.com/KeSavanh)
-* [Maria DiPasquale](https://github.com/edipasq)
-* [Daniel Kletter](https://github.com/dkletter)
-
+Contact Info :
+email: tamasree.g@gmail.com
+linkedin: https://www.linkedin.com/in/tamasree-sinha/
 
